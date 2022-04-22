@@ -1,6 +1,6 @@
 # Interactive Monte Carlo Simulation
 
-This is an interactive simulation to calculate Pi implemented in React and TypeScript: [Interactive Simulation App](https://zirkelc.github.io/monte-carlo-pi)
+This is an interactive simulation to calculate Pi implemented in React and TypeScript: [Interactive Simulation App](https://hesbon-osoro.github.io/monte-carlo-pi)
 
 ![Interactive Simulation App](https://cdn.hashnode.com/res/hashnode/image/upload/v1633523217952/BrDkScslr.png)
 
