@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monte-carlo-pi/static/css/main.2cda5537.chunk.css",
+    "main.js": "/monte-carlo-pi/static/js/main.86bd36dd.chunk.js",
+    "main.js.map": "/monte-carlo-pi/static/js/main.86bd36dd.chunk.js.map",
+    "runtime-main.js": "/monte-carlo-pi/static/js/runtime-main.88b9fe70.js",
+    "runtime-main.js.map": "/monte-carlo-pi/static/js/runtime-main.88b9fe70.js.map",
+    "static/js/2.6409e385.chunk.js": "/monte-carlo-pi/static/js/2.6409e385.chunk.js",
+    "static/js/2.6409e385.chunk.js.map": "/monte-carlo-pi/static/js/2.6409e385.chunk.js.map",
+    "static/js/3.9a3e8850.chunk.js": "/monte-carlo-pi/static/js/3.9a3e8850.chunk.js",
+    "static/js/3.9a3e8850.chunk.js.map": "/monte-carlo-pi/static/js/3.9a3e8850.chunk.js.map",
+    "index.html": "/monte-carlo-pi/index.html",
+    "static/css/main.2cda5537.chunk.css.map": "/monte-carlo-pi/static/css/main.2cda5537.chunk.css.map",
+    "static/js/2.6409e385.chunk.js.LICENSE.txt": "/monte-carlo-pi/static/js/2.6409e385.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88b9fe70.js",
+    "static/js/2.6409e385.chunk.js",
+    "static/css/main.2cda5537.chunk.css",
+    "static/js/main.86bd36dd.chunk.js"
+  ]
+}
