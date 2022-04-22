@@ -1,6 +1,6 @@
 {
   "name": "monte-carlo-pi",
-  "homepage": "http://hesbon-osoro.github.io/monte-carlo-pi",
+  "homepage": "https://hesbon-osoro.github.io/monte-carlo-pi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
