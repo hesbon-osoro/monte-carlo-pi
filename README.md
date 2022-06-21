@@ -2,6 +2,6 @@
 
 This is an interactive simulation to calculate Pi implemented in React and TypeScript: [Interactive Simulation App](https://hesbon-osoro.github.io/monte-carlo-pi)
 
-![Interactive Simulation App](https://cdn.hashnode.com/res/hashnode/image/upload/v1633523217952/BrDkScslr.png)
+[![Interactive Simulation App](https://cdn.hashnode.com/res/hashnode/image/upload/v1633523217952/BrDkScslr.png)](https://hesbon-osoro.github.io/monte-carlo-pi)
 
 For more information please refer to this post: [Calculating π with the Monte Carlo Simulation](https://zirkelc.hashnode.dev/calculating-pi-with-the-monte-carlo-simulation)
